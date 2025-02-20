@@ -9,7 +9,7 @@
     "react-refresh": "^0.16.0",
     "react-router-dom": "^6.28.1",
     "react-scripts": "^3.0.1",
-    "homepage": "https://github.com/Keipher-Mada/minishop"
+    "homepage": "https://keipher-mada.github.io/minishop/"
   },
   "scripts": {
     "start": "react-scripts start",
